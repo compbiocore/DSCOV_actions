@@ -1,6 +1,6 @@
 # My Analysis Repo 
 
-Template for analyses repositories. For more information see https://compbiocore-brown.slab.com/posts/data-organisation-for-analysis-repos-fdi2cddd. Folders that should be present in all such repositories are:
+This repository is an example repo for the DSCoV presentation on GitHub Actions. Folders that should be present in this repository is:
 
  * **metadata:** files such as sample manifests, YAML control files, and Dockerfiles 
  * **scripts:** additional scripts created for analysis of data
