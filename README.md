@@ -1,4 +1,4 @@
-# CBC analysis template
+# My Analysis Repo 
 
 Template for analyses repositories. For more information see https://compbiocore-brown.slab.com/posts/data-organisation-for-analysis-repos-fdi2cddd. Folders that should be present in all such repositories are:
 
