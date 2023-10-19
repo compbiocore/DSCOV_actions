@@ -2,8 +2,8 @@
 
 This repository is an example repo for the DSCoV presentation on GitHub Actions. Folders that should be present in this repository is:
 
- * **metadata:** files such as sample manifests, YAML control files, and Dockerfiles 
- * **scripts:** additional scripts created for analysis of data
+ * **metadata:** files such as codebooks and Dockerfiles 
+ * **scripts:** additional scripts created for analysis of data 
 
 **Note:** If you are including a Dockerfile, make sure it starts with the FROM statement; do not use any commenting or labeling before that statement. 
 
